@@ -3,10 +3,14 @@ CV
 
 Azamat Firidonov
 ----------------  
+<hr>
 
-### Contacts ###  
+### _Contacts_ ###  
+
    * **Location**: Bishkek, Kyrgyzstan
    * **Phone**: +996557144447
    * **Email**: firidonov@gmail.com
-   * **Github**: [Firidonov](https://github.com/Firidonov)
+   * **Github**: [Firidonov](https://github.com/Firidonov) 
+
+
 
